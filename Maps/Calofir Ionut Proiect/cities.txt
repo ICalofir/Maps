@@ -1,0 +1,6 @@
+5
+Bucuresti 4081 2005
+Severin 4181 1747
+Cluj 3996 1748
+Craiova 4168 1838
+Iasi 3836 2011

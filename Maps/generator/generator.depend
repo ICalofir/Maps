@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1461191309 source:/home/calo/Desktop/generator/main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<map>
+	<string>
+	<vector>
+	<cstring>
+	"string.h"
+	"vector.h"
+	"create_cities.h"
+
+1458739027 /home/calo/Desktop/generator/string.h
+
+1458174675 /home/calo/Desktop/generator/vector.h
+
+1461191148 /home/calo/Desktop/generator/create_cities.h
+
